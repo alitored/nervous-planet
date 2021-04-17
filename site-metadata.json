@@ -98,7 +98,6 @@
             {
                 "type": "footer_form",
                 "title": "Recibir info en tu Email",
-                "content": "Recibí propuestas valiosas...\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
