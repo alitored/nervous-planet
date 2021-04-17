@@ -112,7 +112,7 @@
                         "input_type": "text",
                         "name": "nombre",
                         "label": "Nombre",
-                        "default_value": "lorem-ipsum",
+                        "default_value": "nombre",
                         "options": [],
                         "is_required": false,
                         "type": "form_field"
