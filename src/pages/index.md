@@ -44,10 +44,10 @@ sections:
       - title: Sitios web desarrollados mediante últimas tecnologías.
         image: images/social-media-revolución-diseño-páginas-web-1.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          garantiza tu sitio siempre visible y desde cualquier dispositivo. Tu
+          marca online – 24 x 7 –
+
         actions:
           - label: Learn More
             url: /features
