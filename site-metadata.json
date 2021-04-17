@@ -28,7 +28,8 @@
             },
             {
                 "url": "/signup",
-                "style": "primary"
+                "style": "primary",
+                "label": "whatsapp"
             }
         ]
     },
