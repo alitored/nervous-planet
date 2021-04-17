@@ -10,7 +10,7 @@ sections:
       Tan solo por $5900 una web con la última y revolucionaria tecnología
       Jamstack. Que esperas para hacer tu inversión inteligente?
     actions:
-      - label: Learn More
+      - label: Consultame
         url: /features
         style: primary
   - section_id: features
