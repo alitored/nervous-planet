@@ -46,4 +46,8 @@ template: post
 
 **Su objetivo principal es dejar atrás todo lo relacionado con instalaciones o mantenimientos de servidores**. Y que, aun así, tu página web sea capaz de ofrecer una experiencia agradable a todo aquel que la visite, así como una buena valoración dentro de las SERP de Google.
 
-Sabemos que todo esto puede ser un poco complicado de entender pero ¡no te preocupes! A continuación hablaremos sobre las funciones de cada uno de los componentes del JAMstack
+Ahora que ya conoces los elementos que conforman el JAMstack, es momento de hablar sobre las grandes ventajas que te ofrece. ¡Te darás cuenta de por qué es una alternativa muy utilizada por los desarrolladores de hoy en día!
+
+El primero de estos beneficios se explica a partir de su eficacia. **Los recursos desarrollados con esta metodología se caracterizan por un cargador rápido**. Ese es un factor muy relevante para que el usuario tenga una experiencia positiva. Después de todo, la UX influye de forma directa sobre su posicionamiento en Google u otros motores de búsqueda.
+
+El segundo gran beneficio del JAMstackes su economía. Un desarrollo de este tipo representa **costes muchos menores** porque se tiene menos dependencia de servidores.
