@@ -78,7 +78,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: No te dejes seducir. No pagues de más
+    title: No te dejes seducir. No pagues de más. Te contamos la verdad.
 seo:
   title: adorable web
   description: >-
