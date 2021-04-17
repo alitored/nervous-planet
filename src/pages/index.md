@@ -19,7 +19,7 @@ sections:
     title: Facil y muy efectivo
     subtitle: >-
       Diseños atractivos y funcionalidades para que tu negocio se destaque en
-      internet  
+      internet .
     features:
       - title: The Best Feature of Your Services
         image: images/Guía de Comercios y Servicios de Zona Oeste – Libres Oeste.png
