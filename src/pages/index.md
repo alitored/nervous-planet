@@ -52,7 +52,7 @@ sections:
             icon_position: right
             label: Informame
       - title: La velocidad SI importa
-        image: images/feature3.png
+        image: images/velocidad web.png
         image_alt: App user profile preview
         content: >
           La principal razón para tener un sitio web rápido es mejorar la
