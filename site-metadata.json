@@ -110,7 +110,7 @@
                     },
                     {
                         "input_type": "text",
-                        "name": "lorem-ipsum",
+                        "name": "nombre",
                         "label": "lorem-ipsum",
                         "default_value": "lorem-ipsum",
                         "options": [],
