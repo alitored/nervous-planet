@@ -93,7 +93,10 @@ seo:
       value: adorable web
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Agencia de creación de páginas web con tecnología jamstack, baratas,
+        seguras, adaptables. Páginas web muy rápidas. Creamos landing pages, cms
+        joomla, wordpress.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
