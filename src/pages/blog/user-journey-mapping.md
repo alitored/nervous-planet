@@ -1,8 +1,9 @@
 ---
 title: ¿Por que la velocidad?
 subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  ¿Por qué el tiempo, las molestias y el costo para producir este estudio en
+  particular sobre el tiempo de carga de la página y las clasificaciones de
+  búsqueda de Google?
 excerpt: >-
   Las razones son simples, Olvidate de campañas costosas para estar presente en
   las búsquedas de Internet.
