@@ -56,7 +56,7 @@ sections:
       with Stackbit. Create yours now.  Navigated to Azimuth
     features:
       - title: The Best Feature of Your Services
-        image: images/feature1.png
+        image: images/Guía de Comercios y Servicios de Zona Oeste – Libres Oeste.png
         image_alt: App preview on a phone and tablet
         content: >
           Diseño y Desarrollo Web. Maquetamos, diseñamos y desarrollamos tu
