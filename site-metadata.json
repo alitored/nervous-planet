@@ -106,7 +106,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter email address",
+                        "default_value": "Ingresá tu Email",
                         "is_required": true
                     }
                 ],
