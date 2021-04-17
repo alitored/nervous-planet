@@ -1,7 +1,7 @@
 ---
 title: ¿Por que la velocidad?
 subtitle: >-
-  ¿Por qué el tiempo, las molestias y el costo para producir estudio en
+  ¿Por qué el tiempo, las molestias y el costo para producir estudios en
   particular sobre el tiempo de carga de la página y las clasificaciones de
   búsqueda de Google?
 excerpt: >-
