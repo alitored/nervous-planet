@@ -21,8 +21,8 @@ sections:
       - image: images/Guía de Comercios y Servicios de Zona Oeste – Libres Oeste.png
         image_alt: App preview on a phone and tablet
         content: >
-          Diseño y Desarrollo Web. Maquetamos, diseñamos y desarrollamos tu
-          sitio web desde cero.
+          Diseño y Desarrollo Web. Diseñamos y desarrollamos tu sitio web desde
+          cero.
 
 
           Nos enfocamos en una interfaz cómoda de navegar e intuitiva.
