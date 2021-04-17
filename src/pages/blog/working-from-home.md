@@ -37,14 +37,15 @@ seo:
       relativeUrl: true
 template: post
 ---
-## Este nuevo enfoque es una forma nueva de hacer las cosas, en comparación con:
+## Este nuevo enfoque es una forma nueva de hacer las cosas
 
-Sitios web tradicionales en los que el contenido ya está incluido en la aplicación (como en el caso de los sitios estáticos).
-Sitios web basados en CMS que cargan la información de una base de datos en el backend.
-Aplicaciones renderizadas por el servidor utilizando cualquier tipo de lenguaje backend.
-También es diferente a los sitios web renderizados desde el lado del cliente (por ejemplo, construidos con React) con una parte renderizada desde el lado del servidor. El JAMstack no implica en absoluto el renderizado del servidor.
+
 ¿Cuáles son las ventajas de usar el JAMstack?
-Es rápido. El HTML ya está generado y el servidor web sólo debe servirlo, sin involucrar ningún tipo de operación de backend como buscar datos de una base de datos o generar las páginas HTML para cada solicitud. Se puede servir fácilmente a través de una CDN (Content Delivery Network), un servidor compartido, o alternativas gratuitas como Github y netlify.com.
+Es rápido. El HTML ya está generado y el servidor web sólo debe servirlo, sin involucrar ningún tipo de operación de backend como buscar datos de una base de datos o generar las páginas HTML para cada solicitud. 
+
+Se puede servir fácilmente a través de una CDN (Content Delivery Network), un servidor compartido, o alternativas gratuitas como Github y netlify.com.
+
+
 Es eficiente. Dado que no hay backend, no hay cuellos de botella en el servidor «principal».
 Es más barato, ya que servir recursos estáticos es mucho menos costoso que hacerlo a través de un servidor backend.
 Es más seguro, ya que el backend está expuesto sólo a través de una API.
