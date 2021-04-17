@@ -81,7 +81,10 @@ sections:
     title: Latest Posts
 seo:
   title: adorable web
-  description: The preview of the Azimuth theme
+  description: >-
+    Agencia de creación de páginas web con tecnología jamstack, baratas,
+    seguras, adaptables. Páginas web muy rápidas. Creamos landing pages, cms
+    joomla, wordpress.
   extra:
     - name: 'og:type'
       value: website
