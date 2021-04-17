@@ -65,6 +65,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    subtitle: >-
+      Diseños atractivos y funcionalidades para que tu negocio se destaque en
+      internet .
   - section_id: reviews
     type: section_reviews
     background: white
