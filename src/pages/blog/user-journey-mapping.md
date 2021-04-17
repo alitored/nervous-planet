@@ -11,7 +11,7 @@ date: '2019-03-27'
 thumb_image: images/web-alta-velocidad-1024x638.png
 thumb_image_alt: Business people in a meeting
 image: images/infografia (1).jpg
-image_alt: Business people in a meeting
+image_alt: Infograf
 seo:
   title: A Guide To User Journey Mapping
   description: A tale about Journey Mapping
