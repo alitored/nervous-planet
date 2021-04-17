@@ -9,7 +9,7 @@ excerpt: >-
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/web-alta-velocidad-1024x638.png
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Infografía velocidad web
 image: images/infografia (1).jpg
 image_alt: Infografía velocidad web
 seo:
