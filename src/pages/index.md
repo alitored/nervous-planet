@@ -70,7 +70,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Decidite por la inversión inteligente
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Especialistas en diseño de páginas web ultrarápidas
     actions:
       - label: Elegir mi web
         url: /signup
