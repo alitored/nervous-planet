@@ -78,7 +78,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: No te dejes seducir. No pagues de más
 seo:
   title: adorable web
   description: >-
