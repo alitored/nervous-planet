@@ -37,6 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: Páginas webs que se destacan y venden
       - title: Sitios web desarrollados mediante últimas tecnologías.
         image: images/social-media-revolución-diseño-páginas-web-1.jpg
         image_alt: App users welcoming a new member
