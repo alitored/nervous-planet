@@ -1,5 +1,5 @@
 ---
-title: Qué es Jamstack?
+title: ¿Qué es Jamstack?
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
