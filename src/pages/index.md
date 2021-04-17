@@ -67,7 +67,7 @@ sections:
             icon_position: right
     subtitle: >-
       Diseños atractivos y funcionalidades para que tu negocio se destaque en
-      internet .
+      internet
   - section_id: reviews
     type: section_reviews
     background: white
