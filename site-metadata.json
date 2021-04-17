@@ -110,7 +110,7 @@
                     },
                     {
                         "input_type": "text",
-                        "name": "nombre",
+                        "name": "Nombre",
                         "label": "Nombre",
                         "default_value": "nombre",
                         "options": [],
