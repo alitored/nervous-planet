@@ -40,10 +40,14 @@ seo:
       relativeUrl: true
 template: post
 ---
-Google ha reportado que un segundo extra en el tiempo de carga de una página disminuye la satisfacción de los visitantes
-Tenés tu nuevo sitio web para tu empresa.
-Días trabajando en el diseño y semanas en producción con innumerables horas de ediciones. Pero hay un problema: descubre que su nuevo y hermoso sitio web no es tan rápido como necesita. Y cuando se trata de crear una tasa de conversión y un sitio web optimizado para motores de búsqueda, la velocidad es un factor crítico.
-Si no tiene un sitio web rápido, las personas rebotarán más rápido de lo que puede decir "conversiones". Pero acelerar su sitio web no es una tarea fácil. A menudo, es difícil diagnosticar qué está causando que su sitio web funcione más lento de lo que debería. Su problema podría ser cualquier cosa, desde código mal escrito hasta imágenes o elementos de página grandes.
+#### Google ha reportado que un segundo extra en el tiempo de carga de una página disminuye la satisfacción de los visitantes&#xD;&#xA;Digamos que tenés tu nuevo sitio web para tu negocio.&#xD;&#xA;
+
+Días trabajando en el diseño y semanas en producción con innumerables horas de ediciones. Pero hay un problema: descubris que tu nuevo y hermoso sitio web no es tan rápido como se necesita. Y cuando se trata de crear una tasa de conversión y un sitio web optimizado para motores de búsqueda, la velocidad es un factor crítico.
+
+
+Si no tenés un sitio web rápido, las personas rebotarán más rápido de lo que puede decir "conversiones". 
+
+
 Atención
 La principal razón para tener un sitio web rápido es mejorar la experiencia que da a sus usuarios.  Incluso, sin tener en cuenta los requerimientos actuales de Google sobre velocidad, la mayoría de usuarios abandonarían un sitio web con un desempeño bajo.  La mayoría de los propietarios de sitios web realizan grandes esfuerzos en capturar la atención de los visitantes a través de su contenido y gráficos, pero realmente la primera impresión es el tiempo de carga de la página.   Estudios han demostrado en términos de usabilidad que  la velocidad es una necesidad mayor.  Los usuarios requieren de una respuesta rápida para poder navegar y explorar libremente el contenido, teniendo en cuenta que su atención colapsaría ante tiempos de carga mayores a los 10 segundos.
 
