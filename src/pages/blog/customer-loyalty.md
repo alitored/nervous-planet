@@ -51,3 +51,11 @@ Ahora que ya conoces los elementos que conforman el JAMstack, es momento de habl
 El primero de estos beneficios se explica a partir de su eficacia. **Los recursos desarrollados con esta metodología se caracterizan por un cargado muy rápido**. Ese es un factor muy relevante para que el usuario tenga una experiencia positiva. Esto influye de forma directa sobre su posicionamiento en Google u otros motores de búsqueda.
 
 El segundo gran beneficio del JAMstackes su economía. Un desarrollo de este tipo representa **costes muchos menores** porque se tiene menos dependencia de servidores.
+
+**Se podría decir que JAMstack consiste en un novedoso paradigma de desarrollo web.**
+
+Si se quiere, **un nuevo modo de desarrollar sitios web y aplicaciones**, que mejora notablemente el rendimiento a todo nivel.
+
+Por ejemplo, en capacidad de procesamiento, velocidad de carga y otros aportes de optimización, que podrás ver reflejado primero en tu tráfico y métricas. Y luego, en la experiencia de usuario, conversiones y quizá en tu bolsillo.
+
+Se trata de** un *stack web*** diseñado* “para hacer que la web sea más rápida, más segura y más fácil de escalar”*, señala la web oficial [**jamstack.org**](jamstack.org)**.**
