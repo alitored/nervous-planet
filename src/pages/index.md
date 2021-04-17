@@ -18,8 +18,7 @@ sections:
     background: gray
     title: Facil y muy efectivo
     features:
-      - title: The Best Feature of Your Services
-        image: images/Guía de Comercios y Servicios de Zona Oeste – Libres Oeste.png
+      - image: images/Guía de Comercios y Servicios de Zona Oeste – Libres Oeste.png
         image_alt: App preview on a phone and tablet
         content: >
           Diseño y Desarrollo Web. Maquetamos, diseñamos y desarrollamos tu
