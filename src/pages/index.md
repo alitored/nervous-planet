@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/landing1.png
+    image: images/landing-page.jpg
     image_alt: App preview
     title: 'Tu página web adaptable más barata, más segura y más rápida!!'
     content: >
