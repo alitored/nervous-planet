@@ -1,5 +1,5 @@
 ---
-title: Ventajas de la última tecnología.
+title: La última tecnología.
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
