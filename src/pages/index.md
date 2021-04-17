@@ -107,7 +107,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Agencia de creación de páginas web con tecnología jamstack, baratas,
+        seguras, adaptables. Páginas web muy rápidas. Creamos landing pages, cms
+        joomla, wordpress.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
