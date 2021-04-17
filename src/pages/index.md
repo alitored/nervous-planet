@@ -58,7 +58,7 @@ sections:
           La principal razón para tener un sitio web rápido es mejorar la
           experiencia que da a sus usuarios.
         actions:
-          - label: Learn More
+          - label: Informame
             url: /features
             style: secondary
             has_icon: true
