@@ -105,7 +105,7 @@
                         "input_type": "text",
                         "name": "Nombre",
                         "label": "Nombre",
-                        "default_value": "Nombre",
+                        "default_value": "Tu Nombre",
                         "options": [],
                         "is_required": false,
                         "type": "form_field"
