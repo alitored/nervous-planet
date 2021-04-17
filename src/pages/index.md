@@ -69,7 +69,7 @@ sections:
           Te asesoramos y hacemos el mantenimiento de tu página para que esté
           constantemente actualizada.
         actions:
-          - label: Learn More
+          - label: Comprar web
             url: /features
             style: secondary
             has_icon: true
