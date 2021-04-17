@@ -98,7 +98,7 @@
             {
                 "type": "footer_form",
                 "title": "Suscribite",
-                "content": "Enterate de nuestras producciones\n",
+                "content": "Recibí propuestas valiosas...\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
