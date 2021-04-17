@@ -58,10 +58,16 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Diseño y Desarrollo Web. Maquetamos, diseñamos y desarrollamos tu
+          sitio web desde cero.
+
+
+          Nos enfocamos en una interfaz cómoda de navegar e intuitiva.
+
+
+          Te asesoramos y hacemos el mantenimiento de tu página para que esté
+          constantemente actualizada.
         actions:
           - label: Learn More
             url: /features
