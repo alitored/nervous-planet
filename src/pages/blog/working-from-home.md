@@ -2,10 +2,7 @@
 title: La última tecnología.
 excerpt: >-
   Tenemos para ofrecerte una página web hecha con una colección de tecnologías,
-  configuradas para trabajar entre sí. Este stack delega el funcionamiento de la
-  aplicación a la programación en el cliente, lo que permite reducir el trabajo
-  que hacemos en el servidor y por lo tanto entregar respuestas más rápidas en
-  nuestras páginas web.
+  configuradas para trabajar entre sí.
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/jamstack.png
