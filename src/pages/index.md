@@ -105,7 +105,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: adorable web
     - name: 'twitter:description'
       value: >-
         Agencia de creación de páginas web con tecnología jamstack, baratas,
