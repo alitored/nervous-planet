@@ -42,8 +42,7 @@
                 "image": "images/adorable-logo-footer.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo",
-                "title": "Web rápida, profesional y barata"
+                "content": "Stackbit theme demo"
             },
             {
                 "type": "footer_nav",
