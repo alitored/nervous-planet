@@ -2,7 +2,7 @@
 title: ¿Por que la velocidad?
 subtitle: >-
   ¿Por qué el tiempo, las molestias y el costo para producir estudios sobre el
-  tiempo de carga de la página y las clasificaciones de búsqueda de Google?
+  tiempo de carga de las páginas y las clasificaciones de búsqueda de Google?
 excerpt: >-
   Las razones son simples, Olvidate de campañas costosas para estar presente en
   las búsquedas de Internet.
