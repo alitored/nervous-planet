@@ -4,8 +4,10 @@ subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Las razones son simples, en relación al seo (google)se refiere a la posición
+  que recibe tu página web en las búsquedas, ya que ahora dependen en gran
+  medida de cómo es medida por page speed (evaluado por Google). Olvidate de
+  campañas costosas para estar presente en las búsquedas de Internet.
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/web-alta-velocidad-1024x638.png
