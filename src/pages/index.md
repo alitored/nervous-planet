@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/landing-page.jpg
-    image_alt: App preview
+    image_alt: landing-pages-adorableweb
     title: 'Tu página web adaptable más barata, más segura y más rápida!!'
     content: >
       Tan solo por $5900 una web con la última y revolucionaria tecnología
