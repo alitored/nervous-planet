@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: right
             label: Informame
-      - title: Cool Feature of Your Services
+      - title: La velocidad SI importa
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
