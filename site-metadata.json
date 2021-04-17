@@ -30,7 +30,8 @@
                 "url": "/signup",
                 "style": "primary",
                 "label": "whatsapp",
-                "icon": "envelope"
+                "icon": "envelope",
+                "has_icon": true
             }
         ]
     },
