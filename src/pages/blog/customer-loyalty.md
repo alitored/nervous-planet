@@ -2,9 +2,7 @@
 title: ¿Qué es Jamstack?
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: Mejor interpretación Mayor seguridad Escalado más barato y fácil
 date: '2021-01-03'
 thumb_image: images/jam2.jpg
 thumb_image_alt: A group of people working in a cafe
