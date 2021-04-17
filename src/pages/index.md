@@ -6,9 +6,9 @@ sections:
     image: images/landing1.png
     image_alt: App preview
     title: 'Tu página web adaptable más barata, más segura y más rápida!!'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Tan solo por $5900 una web con la última y revolucionaria tecnología. Que
+      esperas para hacer tu inversión inteligente?
     actions:
       - label: Learn More
         url: /features
