@@ -10,7 +10,7 @@ author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/web-alta-velocidad-1024x638.png
 thumb_image_alt: Business people in a meeting
-image: images/10.jpg
+image: images/veloz.png
 image_alt: Business people in a meeting
 seo:
   title: A Guide To User Journey Mapping
