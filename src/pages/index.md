@@ -53,6 +53,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            label: Informame
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
