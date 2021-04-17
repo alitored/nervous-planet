@@ -48,8 +48,7 @@ sections:
           Garantizamos que tu sitio siempre estará  visible y desde cualquier
           dispositivo. Tu marca online – 24 x 7 –
         actions:
-          - label: emamrofnI
-            url: /features
+          - url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
