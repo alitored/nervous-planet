@@ -46,7 +46,8 @@ Digamos que tenés tu nuevo sitio web para tu negocio. Llevás días trabajando 
 
 Si no tenés un sitio web rápido, las personas rebotarán más rápido de lo que puede decir "conversiones".
 
+La principal razón para tener un sitio web rápido es mejorar la experiencia que da a sus usuarios.  Incluso, sin tener en cuenta los requerimientos actuales de Google sobre velocidad, la mayoría de usuarios abandonarían un sitio web con un desempeño bajo.  La mayoría de los propietarios de sitios web realizan grandes esfuerzos en capturar la atención de los visitantes a través de su contenido y gráficos, pero realmente la primera impresión es el tiempo de carga de la página. 
 
-La principal razón para tener un sitio web rápido es mejorar la experiencia que da a sus usuarios.  Incluso, sin tener en cuenta los requerimientos actuales de Google sobre velocidad, la mayoría de usuarios abandonarían un sitio web con un desempeño bajo.  La mayoría de los propietarios de sitios web realizan grandes esfuerzos en capturar la atención de los visitantes a través de su contenido y gráficos, pero realmente la primera impresión es el tiempo de carga de la página.   Estudios han demostrado en términos de usabilidad que  la velocidad es una necesidad mayor.  Los usuarios requieren de una respuesta rápida para poder navegar y explorar libremente el contenido, teniendo en cuenta que su atención colapsaría ante tiempos de carga mayores a los 10 segundos.
+Estudios han demostrado en términos de usabilidad que  la velocidad es una necesidad mayor.  Los usuarios requieren de una respuesta rápida para poder navegar y explorar libremente el contenido, teniendo en cuenta que su atención colapsaría ante tiempos de carga mayores a los 10 segundos.
 
 Google mide habitualmente el rendimiento de las páginas web
