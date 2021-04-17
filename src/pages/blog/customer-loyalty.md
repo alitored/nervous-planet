@@ -6,7 +6,7 @@ excerpt: Mejor interpretación. Mayor seguridad. Escalado más barato y fácil.
 date: '2021-01-03'
 thumb_image: images/jam2.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
+image: images/páginas web on Behance.png
 image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
