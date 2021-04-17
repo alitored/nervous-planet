@@ -56,7 +56,7 @@ sections:
         image_alt: App user profile preview
         content: >
           La principal razón para tener un sitio web rápido es mejorar la
-          experiencia que da a sus usuarios.
+          experiencia que das a tus usuarios.
         actions:
           - label: Informame
             url: /features
