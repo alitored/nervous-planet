@@ -41,10 +41,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: >-
-          Nuestros sitios web son desarrollados mediante últimas tecnologías. Lo
-          que garantiza tu sitio siempre visible y desde cualquier dispositivo.
-          Tu marca online – 24 x 7 –
+      - title: Sitios web desarrollados mediante últimas tecnologías.
         image: images/social-media-revolución-diseño-páginas-web-1.jpg
         image_alt: App users welcoming a new member
         content: >-
