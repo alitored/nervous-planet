@@ -102,13 +102,6 @@
                 "hide_labels": true,
                 "form_fields": [
                     {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Ingresá tu Email",
-                        "is_required": true
-                    },
-                    {
                         "input_type": "text",
                         "name": "Nombre",
                         "label": "Nombre",
@@ -116,6 +109,13 @@
                         "options": [],
                         "is_required": false,
                         "type": "form_field"
+                    },
+                    {
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Ingresá tu Email",
+                        "is_required": true
                     }
                 ],
                 "submit_label": "Recibi info en tu email"
