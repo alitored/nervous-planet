@@ -30,7 +30,7 @@
                 "url": "/signup",
                 "style": "primary",
                 "label": "whatsapp",
-                "icon": "envelope",
+                "icon": "facebook",
                 "has_icon": true
             }
         ]
