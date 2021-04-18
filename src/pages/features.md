@@ -20,7 +20,7 @@ sections:
     title: Es hora de renovar o tener tu web!
     subtitle: Comenzá ahora una etapa de crecimiento
     actions:
-      - label: Get Started
+      - label: Elegir plan
         url: '#'
         style: secondary
 seo:
