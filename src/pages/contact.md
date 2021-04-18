@@ -37,6 +37,9 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
+    subtitle: >-
+      Envíanos un mensaje con tus preguntas o solicitudes y responderemos en
+      breve.
 seo:
   title: Contact
   description: This is the contact page
