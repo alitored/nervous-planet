@@ -18,7 +18,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Es hora de renovar o tener tu web!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Comenzá ahora '
     actions:
       - label: Get Started
         url: '#'
