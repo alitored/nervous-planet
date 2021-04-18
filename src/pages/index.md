@@ -20,16 +20,7 @@ sections:
     features:
       - image: images/Guía-de-Comercios-y-Servicios-de-Zona-Oeste.jpg
         image_alt: App preview on a phone and tablet
-        content: >
-          Diseño y Desarrollo Web. Diseñamos y desarrollamos tu sitio web desde
-          cero.
-
-
-          Nos enfocamos en una interfaz cómoda de navegar e intuitiva.
-
-
-          Te asesoramos y hacemos el mantenimiento de tu página para que esté
-          constantemente actualizada.
+        content: "**Las páginas web más baratas**\_no tienen por qué ser webs estáticas, feas y poco funcionales.\n\nHemos automatizado parte del proceso para que puedas comprar una página web barata sin sacrificar su calidad.\n\n"
         actions:
           - label: Comprar web
             url: /pricing
