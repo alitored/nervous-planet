@@ -5,10 +5,6 @@ sections:
     type: section_contact
     background: gray
     title: Dejanos un mensaje
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
     form_id: contactForm
     form_fields:
       - input_type: text
