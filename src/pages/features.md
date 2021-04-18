@@ -13,7 +13,7 @@ sections:
         url: /signup
         style: primary
       - label: Ver planes
-        url: '#'
+        url: /pricing
         style: secondary
   - section_id: call-to-action
     type: section_cta
