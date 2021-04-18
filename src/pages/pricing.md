@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: ONE PAGE
-        subtitle: Landing Page
+        subtitle: Landing Page (Presentación)
         price: $ 5.900.-
         details: >
           *   *   Una sóla página*   Incluye Hosting (por 1 año)*   Formulario
