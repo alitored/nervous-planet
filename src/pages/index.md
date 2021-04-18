@@ -45,7 +45,7 @@ sections:
           Garantizamos que tu sitio siempre estará  visible y desde cualquier
           dispositivo. Tu marca online – 24 x 7 –
         actions:
-          - url: /features
+          - url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
