@@ -47,12 +47,24 @@ sections:
       - title: Professional
         subtitle: For medium-sized businesses
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          Hosting 5 GB (por 1 año)
+
+
+
+          *   Certificado SSL
+
+          *   Hasta 6 páginas interiores
+
+          *   Formulario de contacto
+
+          *   Botones e integración Redes Sociales
+
+          *   Indexación en Google
+
+          *   Integración con WhatsApp/Chat
+
+          *   Tutorial y capacitación de autoadministración
         highlight: true
         actions:
           - label: Order Now
