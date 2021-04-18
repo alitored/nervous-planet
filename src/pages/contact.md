@@ -22,7 +22,7 @@ sections:
         options:
           - Consultar por sitio web
           - Consultar formas de pago
-          - Other
+          - Solicitar soporte
       - input_type: textarea
         name: message
         label: Message
