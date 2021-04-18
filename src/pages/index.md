@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'Realmente fácil y '
+    title: Realmente fácil y muy efectivo
     features:
       - image: images/Guía-de-Comercios-y-Servicios-de-Zona-Oeste.jpg
         image_alt: App preview on a phone and tablet
