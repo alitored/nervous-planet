@@ -70,7 +70,7 @@ sections:
             url: /signup
             style: primary
       - title: E-COMMERCE
-        price: '$ '
+        price: $ 17.900.-
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
