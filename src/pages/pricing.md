@@ -70,7 +70,6 @@ sections:
             url: /signup
             style: primary
       - title: E-COMMERCE
-        subtitle: For very large businesses
         price: $149/m
         details: |-
           * Vestibulum non eros quis
