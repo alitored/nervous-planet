@@ -177,17 +177,12 @@ sections:
         answer: "Puedes administrar de manera autónoma diversos aspectos de tu sitio web como actualizar contenido, textos, editar imágenes, entre otras. En el caso de las webs con tienda online puedes subir y editar productos, categorías, administrar stock, precios y envíos. Tendrás el control total de tu sitio web.\_\n"
         type: faq_item
       - question: ¿PARA QUÉ ME SIRVE GOOGLE ANALYTICS?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Con Google Analytics puedes conocer aspectos claves como el número de
+          visitas que recibe tu sitio web, desde dónde vienen los usuarios, qué
+          páginas visitan más y cuál es el promedio de tiempo de navegación,
+          entre otras cosas. Esta información es clave para ver la efectividad
+          de tus estrategias y conocer más a los usuarios.
         type: faq_item
 seo:
   title: Pricing
