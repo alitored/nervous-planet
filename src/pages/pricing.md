@@ -67,7 +67,7 @@ sections:
           *   Tutorial y capacitación de autoadministración
         highlight: true
         actions:
-          - label: Order Now
+          - label: Me interesa
             url: /signup
             style: primary
       - title: Enterprise
