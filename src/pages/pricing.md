@@ -5,7 +5,10 @@ sections:
     type: section_pricing
     background: gray
     title: Planes Web
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Piensa en tu sitio web como una inversión para tu negocio en donde los
+      cliente conocerán tus productos y servicios, te contactarán y realizarán
+      acciones claves como cotizar, reservar o comprar.  
     pricing_plans:
       - title: ONE PAGE
         subtitle: Landing Page (Presentación)
