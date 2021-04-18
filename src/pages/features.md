@@ -17,7 +17,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: Es hora de renovar o tener tu web
+    title: Es hora de renovar o tener tu web!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
