@@ -1,7 +1,7 @@
 ---
 title: Nosotros
 subtitle: Características y beneficios que van a potenciar tu negocio
-image: images/about.jpg
+image: images/nuestro-diseno-web.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
