@@ -39,10 +39,6 @@ sections:
 
           <!---->
 
-          *   Autoadministrable (incluye video-tutorial)
-
-          \<!---->
-
           *   Certificado de sitio seguro SSL
         actions:
           - label: Me interesa
