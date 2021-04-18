@@ -143,7 +143,7 @@ sections:
     type: section_faq
     background: gray
     title: ¿Dudas?
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: 'Preguntas Frecuentes '
     faq_items:
       - question: ¿INCLUYE HOSTING?
         answer: >+
