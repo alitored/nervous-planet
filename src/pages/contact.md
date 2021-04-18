@@ -21,7 +21,7 @@ sections:
         default_value: Seleccionar
         options:
           - Consultar por sitio web
-          - Sponsorship
+          - Consultar formas de pago
           - Other
       - input_type: textarea
         name: message
