@@ -82,7 +82,7 @@ sections:
             url: /signup
             style: secondary
     subtitle: >-
-      Piensa en tu sitio web como una inversión para tu negocio en donde los
+      Pensá en tu sitio web como una inversión para tu negocio en donde los
       cliente conocerán tus productos y servicios, te contactarán y realizarán
       acciones claves como cotizar, reservar o comprar.  
   - section_id: faq
