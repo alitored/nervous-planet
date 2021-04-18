@@ -20,7 +20,7 @@ sections:
         label: Asunto
         default_value: Seleccionar
         options:
-          - Consultar por si
+          - 'Consultar por '
           - Sponsorship
           - Other
       - input_type: textarea
