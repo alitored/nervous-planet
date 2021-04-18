@@ -15,7 +15,7 @@ sections:
           de contacto*   Botones Redes Sociales*   Integración con WhatsApp*  
           Indexación en Google*   Certificado sitio seguro SSL
         actions:
-          - label: Order Now
+          - label: Me interesa
             url: /signup
             style: secondary
       - title: Professional
