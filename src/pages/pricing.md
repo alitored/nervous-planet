@@ -69,7 +69,7 @@ sections:
           - label: Me interesa
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: E-COMMERCE
         subtitle: For very large businesses
         price: $149/m
         details: |-
