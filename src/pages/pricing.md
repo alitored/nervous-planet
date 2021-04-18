@@ -80,6 +80,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+        subtitle: Tienda online
     subtitle: >-
       Pensá en tu sitio web como una inversión para tu negocio en donde los
       cliente conocerán tus productos y servicios, te contactarán y realizarán
