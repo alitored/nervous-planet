@@ -1,8 +1,6 @@
 ---
 title: Nosotros
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Características y beneficios que van a potenciar tu negocio
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
