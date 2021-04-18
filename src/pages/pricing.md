@@ -166,17 +166,12 @@ sections:
           las Webs con un certificado de seguridad SSL instalado.
 
       - question: ¿QUÉ TIPO DE FOTOGRAFÍAS PUEDO UTILIZAR EN MI SITIO WEB?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Podemos utilizar imágenes Libres de Derechos de Autor o fotografías
+          que tu nos proporciones. Sin embargo, si requieres fotografías propias
+          podemos realizar sesiones fotográficas de estudio para contar con
+          imágenes de productos, servicios, instalaciones y/o equipos de
+          trabajo.
         type: faq_item
 seo:
   title: Pricing
