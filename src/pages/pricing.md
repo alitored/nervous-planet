@@ -10,11 +10,10 @@ sections:
       - title: Basic
         subtitle: For small businesses
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >
+          *   *   Una sóla página*   Incluye Hosting (por 1 año)*   Formulario
+          de contacto*   Botones Redes Sociales*   Integración con WhatsApp*  
+          Indexación en Google*   Certificado sitio seguro SSL
         actions:
           - label: Order Now
             url: /signup
