@@ -185,17 +185,7 @@ sections:
           de tus estrategias y conocer más a los usuarios.
         type: faq_item
       - question: ¿DÓNDE ESTÁN UBICADOS?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "Somos una agencia de diseño web en Castelar y estamos ubicados en Munich 3829. Sin embargo, podemos trabajar a distancia a través de reuniones por videollamada.\_\n\n"
         type: faq_item
 seo:
   title: Pricing
