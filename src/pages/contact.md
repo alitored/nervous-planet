@@ -25,7 +25,7 @@ sections:
           - Solicitar soporte
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
       - input_type: checkbox
         name: consent
         label: >-
