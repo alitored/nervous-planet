@@ -18,7 +18,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Es hora de renovar o tener tu web!
-    subtitle: 'Comenzá ahora '
+    subtitle: Comenzá ahora una etapa de crecimiento
     actions:
       - label: Get Started
         url: '#'
