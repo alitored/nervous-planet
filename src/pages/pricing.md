@@ -131,7 +131,7 @@ sections:
 
           *   Posicionamiento en buscadores
         actions:
-          - label: Order Now
+          - label: Me interesa
             url: /signup
             style: secondary
         subtitle: Tienda online
