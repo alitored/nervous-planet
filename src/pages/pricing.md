@@ -165,9 +165,7 @@ sections:
           Además, Google ha confirmado que premiará con mejor posicionamiento
           las Webs con un certificado de seguridad SSL instalado.
 
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: ¿QUÉ TIPO DE FOTOGRAFÍAS PUEDO UTILIZAR EN MI SITIO WEB?
         answer: >-
           ## Lorem ipsum
 
