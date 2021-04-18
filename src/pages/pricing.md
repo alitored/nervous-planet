@@ -44,7 +44,7 @@ sections:
           - label: Me interesa
             url: /signup
             style: secondary
-      - title: Professional
+      - title: Página web empresarial
         subtitle: For medium-sized businesses
         price: $8.900.-
         details: |
