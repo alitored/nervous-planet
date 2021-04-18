@@ -7,7 +7,7 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
-    content: "Hemos desarrollado diversos proyectos webs\_ para Pymes e instituciones. Sitios webs estándar, ecommerce y landing page para campañas de Marketing Digital.\_\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n*   Ut eu nunc at diam fringilla fringilla eu ut massa.\n*   Phasellus ut enim non lorem venenatis rutrum.\n\nMollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.\n"
+    content: "Hemos desarrollado diversos proyectos webs\_ para Pymes e instituciones. Sitios webs estándar, ecommerce y landing page para campañas de Marketing Digital.\_\n\nQueremos que tu web refleje la personalidad de tu marca y conecte con tu audiencia brindando una buena experiencia de navegación.\_\n\nPrincipales características\n\nTu sitio web cumplirá con altos estándares de calidad, diseñado bajo las últimas tendencias y orientado a generar buenas experiencias de navegación.\_\n\n#### ![](/images/png-clipart.png)Diseño personalizado\n\nDiseño personalizado considerando los atributos y personalidad de tu marca, como también los objetivos de tu negocio.\n"
     actions:
       - label: Free Trial
         url: /signup
