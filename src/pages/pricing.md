@@ -45,7 +45,7 @@ sections:
             url: /signup
             style: secondary
       - title: Página web empresarial
-        subtitle: For medium-sized businesses
+        subtitle: Hasta 6 páginas interiores
         price: $8.900.-
         details: |
           Hosting 5 GB (por 1 año)
