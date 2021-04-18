@@ -30,7 +30,7 @@ sections:
         name: consent
         label: Entiendo que me enviarán información a mi Email.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar mensaje
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve.
