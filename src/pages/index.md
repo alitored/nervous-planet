@@ -32,7 +32,7 @@ sections:
           constantemente actualizada.
         actions:
           - label: Comprar web
-            url: /features
+            url: /pricing
             style: secondary
             has_icon: true
             icon: arrow-right
