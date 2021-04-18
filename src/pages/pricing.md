@@ -152,10 +152,11 @@ sections:
           soporte.
 
       - question: ¿INCLUYE DOMINIO?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >+
+          El dominio lo puedes contratar directamente en nic.ar o solicitar que
+          nosotros lo hagamos por vos y luego te entragamos la administración.
+          El valor anual del dominio.ar es de $1000.-
+
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
