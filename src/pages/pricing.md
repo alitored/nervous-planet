@@ -158,14 +158,13 @@ sections:
           El valor anual del dominio.ar es de $1000.-
 
       - question: ¿QUÉ ES Y QUÉ VENTAJAS TIENE CONTAR CON CERTIFICADO SSL EN MI WEB?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: >+
+          El protocolo SSL (https) añade a tu sitio web una capa de seguridad y
+          privacidad importante. Es una manera de decirles a tus clientes que el
+          sitio es auténtico, real y confiable para ingresar datos personales.
+          Además, Google ha confirmado que premiará con mejor posicionamiento
+          las Webs con un certificado de seguridad SSL instalado.
+
 seo:
   title: Pricing
   description: This is the pricing page
