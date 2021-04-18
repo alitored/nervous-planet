@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "url": "/signup",
+                "url": "https://api.whatsapp.com/send?phone=34666666666",
                 "style": "primary",
                 "label": "whatsapp",
                 "icon": "facebook",
