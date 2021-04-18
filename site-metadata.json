@@ -55,7 +55,7 @@
                     },
                     {
                         "label": "Whatsapp",
-                        "url": "/signup",
+                        "url": "https://api.whatsapp.com/send?phone=5491157577039",
                         "style": "link"
                     },
                     {
