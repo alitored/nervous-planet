@@ -5,10 +5,6 @@ sections:
     type: section_pricing
     background: gray
     title: Planes Web
-    subtitle: >-
-      Piensa en tu sitinegocio en donde los cliente conocerán tus productos y
-      servicios, te contactarán y realizarán acciones claves coo web como una
-      inversión para tu mo cotizar, reservar o comprar.  
     pricing_plans:
       - title: ONE PAGE
         subtitle: Landing Page (Presentación)
