@@ -70,7 +70,7 @@ sections:
             url: /signup
             style: primary
       - title: E-COMMERCE
-        price: $149/m
+        price: '$ '
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
