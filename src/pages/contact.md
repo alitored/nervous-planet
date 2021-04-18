@@ -28,9 +28,7 @@ sections:
         label: Mensaje
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: Entiendo que me enviarán información a mi Email.
         is_required: true
     submit_label: Send Message
     subtitle: >-
