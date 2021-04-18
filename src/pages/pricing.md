@@ -72,11 +72,64 @@ sections:
       - title: E-COMMERCE
         price: $ 17.900.-
         details: >
-          *   *   Certificado SSL*   Creación de tienda on-line*   Integración
-          pasarela de pago (carrito de compra, Mercado Pago, otros )*  
-          Formulario de contacto*   Botones e integración Redes Sociales*  
-          Indexación en Google*   Integración con WhatsApp/Chat*   Tutorial y
-          capacitación de autoadministración
+          Hosting 5 GB (por 1 año)
+
+
+
+
+          <!---->
+
+
+          *   Certificado SSL
+
+
+          <!---->
+
+
+          *   Creación de tienda on-line
+
+
+          <!---->
+
+
+          *   Integración pasarela de pago (carrito de compra Mercado Pago,
+          otros)
+
+
+          <!---->
+
+
+          *   Formulario de contacto
+
+
+          <!---->
+
+
+          *   Botones e integración Redes Sociales
+
+
+          <!---->
+
+
+          *   Indexación en Google
+
+
+          <!---->
+
+
+          *   Integración con WhatsApp/Chat
+
+
+          <!---->
+
+
+          *   Tutorial y capacitación de autoadministración
+
+
+          <!---->
+
+
+          *   Posicionamiento en buscadores
         actions:
           - label: Order Now
             url: /signup
