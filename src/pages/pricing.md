@@ -176,9 +176,7 @@ sections:
       - question: ¿QUÉ SIGNIFICA AUTOADMINISTRABLE?
         answer: "Puedes administrar de manera autónoma diversos aspectos de tu sitio web como actualizar contenido, textos, editar imágenes, entre otras. En el caso de las webs con tienda online puedes subir y editar productos, categorías, administrar stock, precios y envíos. Tendrás el control total de tu sitio web.\_\n"
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: ¿PARA QUÉ ME SIRVE GOOGLE ANALYTICS?
         answer: >-
           ## Lorem ipsum
 
