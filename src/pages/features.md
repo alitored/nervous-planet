@@ -12,6 +12,7 @@ sections:
       - label: Llamar
         url: 'https://api.whatsapp.com/send?phone=5491157577039'
         style: primary
+        has_icon: true
       - label: Ver planes
         url: /pricing
         style: secondary
