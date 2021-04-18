@@ -73,7 +73,7 @@ sections:
     subtitle: Elegi a los especialistas en diseño de páginas web ultrarápidas
     actions:
       - label: Elegir mi web
-        url: /signup
+        url: /pricing
         style: primary
         has_icon: true
         icon: arrow-right
