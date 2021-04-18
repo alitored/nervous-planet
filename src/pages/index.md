@@ -59,7 +59,7 @@ sections:
           experiencia que das a tus usuarios.
         actions:
           - label: Informame
-            url: /features
+            url: /blog/user-journey-mapping/
             style: secondary
             has_icon: true
             icon: arrow-right
