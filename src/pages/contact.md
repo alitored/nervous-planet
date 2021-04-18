@@ -20,7 +20,7 @@ sections:
         label: Asunto
         default_value: Seleccionar
         options:
-          - Error on the site
+          - Consultar por si
           - Sponsorship
           - Other
       - input_type: textarea
