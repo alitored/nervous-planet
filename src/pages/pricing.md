@@ -151,7 +151,7 @@ sections:
           SSL por 1 año garantizando seguridad, velocidad de navegación y
           soporte.
 
-      - question: Aliquam eget purus ante?
+      - question: ¿INCLUYE DOMINIO?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
