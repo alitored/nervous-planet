@@ -10,10 +10,36 @@ sections:
       - title: ONE PAGE
         subtitle: Landing Page (Presentación)
         price: $ 5.900.-
-        details: >
-          *   *   Una sóla página*   Incluye Hosting (por 1 año)*   Formulario
-          de contacto*   Botones Redes Sociales*   Integración con WhatsApp*  
-          Indexación en Google*   Certificado sitio seguro SSL
+        details: |
+          Diseño Responsive
+
+          <!---->
+
+          *   Una sóla página
+
+          <!---->
+
+          *   Incluye Hosting (por 1 año)
+
+          <!---->
+
+          *   Formulario de contacto
+
+          <!---->
+
+          *   Botones Redes Sociales
+
+          <!---->
+
+          *   Integración con WhatsApp
+
+          <!---->
+
+          *   Indexación en Google
+
+          <!---->
+
+          *   Autoadministrable (incluye video-tutorial)
         actions:
           - label: Me interesa
             url: /signup
