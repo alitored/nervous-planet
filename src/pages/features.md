@@ -13,6 +13,7 @@ sections:
         url: 'https://api.whatsapp.com/send?phone=5491157577039'
         style: primary
         has_icon: true
+        icon: facebook
       - label: Ver planes
         url: /pricing
         style: secondary
