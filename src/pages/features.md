@@ -21,7 +21,7 @@ sections:
     subtitle: Comenzá ahora una etapa de crecimiento
     actions:
       - label: Elegir plan
-        url: '#'
+        url: /pricing
         style: secondary
 seo:
   title: Features
