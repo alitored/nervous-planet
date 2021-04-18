@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: $ 5.900.-
         details: >
           *   *   Una sóla página*   Incluye Hosting (por 1 año)*   Formulario
           de contacto*   Botones Redes Sociales*   Integración con WhatsApp*  
