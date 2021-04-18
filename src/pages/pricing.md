@@ -46,7 +46,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $8.900.-
         details: |
           Hosting 5 GB (por 1 año)
 
