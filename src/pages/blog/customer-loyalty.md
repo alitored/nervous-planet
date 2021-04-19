@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-**El JAMstack es una arquitectura de estructuración web** que tiene como principal particularidad que **no se centra en alguna tecnología específica**. De hecho, la denominación de JAMstack se refiere a la combinación o *stack* de las iniciales de: JavaScript, APIs y Markup. Toma lo mejor de cada una de esas herramientas.
+**El JAMstack es una arquitectura de estructuración web. **La denominación de JAMstack se refiere a la combinación o *stack* de las iniciales de: JavaScript, APIs y Markup. 
 
 **Su objetivo principal es dejar atrás todo lo relacionado con instalaciones o mantenimientos de servidores**. Y que, aun así, tu página web sea capaz de ofrecer una experiencia agradable a todo aquel que la visite, así como una buena valoración dentro de las SERP de Google.
 
@@ -58,8 +58,6 @@ Por ejemplo, en capacidad de procesamiento, velocidad de carga y otros aportes d
 
 Se trata de hacer que la web sea más rápida, más segura y más fácil de escalar”, señala la web oficial [**jamstack.org**](jamstack.org)
 
+***
 
-
-****
-
-****
+***
