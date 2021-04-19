@@ -43,7 +43,7 @@ Diseñamos Sitios Webs en WordPress y todos poseen una interfaz amigable para qu
 
 Podrás alojar contenido en formato de video, fotografía y documentos para descargar.
 
-#### Full Responsive
+####   Full Responsive
 
 Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
