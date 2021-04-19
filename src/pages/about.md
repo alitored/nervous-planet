@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-####   Diseño personalizado
+#### ![](/images/rsz\_054-webpage.png)Diseño personalizado
 
 Diseño personalizado considerando los atributos y personalidad de tu marca, como también los objetivos de tu negocio.
 
