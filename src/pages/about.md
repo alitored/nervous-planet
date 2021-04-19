@@ -39,7 +39,7 @@ Diseño personalizado considerando los atributos y personalidad de tu marca, com
 
 Diseñamos Sitios Webs en WordPress y todos poseen una interfaz amigable para que puedes editar tu web. 
 
-####   Multimedia
+#### ![](/images/rsz\_024-camera.png)  Multimedia
 
 Podrás alojar contenido en formato de video, fotografía y documentos para descargar.
 
