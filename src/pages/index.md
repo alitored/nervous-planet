@@ -18,7 +18,7 @@ sections:
     background: gray
     title: Realmente fácil y muy efectivo
     features:
-      - image: images/Guía-de-Comercios-y-Servicios-de-Zona-Oeste.jpg
+      - image: images/happy-oregano.png
         image_alt: App preview on a phone and tablet
         content: "**Las páginas web más baratas**\_no tienen por qué ser webs estáticas, feas y poco funcionales.\n\nHemos automatizado parte del proceso para que puedas comprar una página web barata sin sacrificar su calidad.\n\n"
         actions:
