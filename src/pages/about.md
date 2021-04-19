@@ -35,7 +35,7 @@ template: page
 
 Diseño personalizado considerando los atributos y personalidad de tu marca, como también los objetivos de tu negocio.
 
-#### ![](/images/rsz\_071-web_development.png)Autoadministrable
+#### ![](/images/rsz\_071-web_development.png)  Autoadministrable
 
 Diseñamos Sitios Webs en WordPress y todos poseen una interfaz amigable para que puedes editar tu web. 
 
