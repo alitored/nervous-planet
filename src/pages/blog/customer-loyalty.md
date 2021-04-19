@@ -56,4 +56,10 @@ Si se quiere, **un nuevo modo de desarrollar sitios web y aplicaciones**, que m
 
 Por ejemplo, en capacidad de procesamiento, velocidad de carga y otros aportes de optimización, que podrás ver reflejado primero en tu tráfico y métricas. Y luego, en la experiencia de usuario, conversiones y quizá en tu bolsillo.
 
-Se trata de hacer que la web sea más rápida, más segura y más fácil de escalar”, señala la web oficial [**jamstack.org**](jamstack.org)**.**
+Se trata de hacer que la web sea más rápida, más segura y más fácil de escalar”, señala la web oficial [**jamstack.org**](jamstack.org)
+
+
+
+****
+
+****
