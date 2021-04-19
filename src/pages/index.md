@@ -30,7 +30,7 @@ sections:
             icon_position: right
         title: Páginas webs que se destacan y venden
       - title: Sitios web desarrollados mediante últimas tecnologías.
-        image: images/webs-baratas-ejemplo-ebweb_opt.jpg
+        image: images/webs-baratas-ejemplo-ebweb.png.webp
         image_alt: App users welcoming a new member
         content: >
           Garantizamos que tu sitio siempre estará  visible y desde cualquier
