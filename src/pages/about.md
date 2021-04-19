@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-#### ![](/images/rsz_objetivo.png)  Diseño personalizado
+####   Diseño personalizado
 
 Diseño personalizado considerando los atributos y personalidad de tu marca, como también los objetivos de tu negocio.
 
@@ -43,11 +43,11 @@ Diseñamos Sitios Webs en WordPress y todos poseen una interfaz amigable para qu
 
 Podrás alojar contenido en formato de video, fotografía y documentos para descargar.
 
-#### Full Responsive
+#### ![](/images/rsz\_031-devices.png)  Full Responsive
 
 Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
-#### SEO amigable
+#### ![](/images/rsz\_060-flowchart.png)  SEO amigable
 
 Consideramos los principales aspectos para que tu sitio web se posicione en Google. 
 
@@ -55,10 +55,10 @@ Consideramos los principales aspectos para que tu sitio web se posicione en Goo
 
 Integramos los botones de tus Redes Sociales en tu sitio web para una mejor experiencia de navegación.   
 
-#### Marketing y Análisis
+#### ![](/images/charming-mint.png)  Marketing y Análisis
 
 Integramos herramientas como Google Analytics para que puedas medir y gestionar el marketing.
 
-#### Correos Corporativos
+#### ![](/images/rsz\_002-mail.png)  Correos Corporativos
 
 Creamos y configuramos correos electrónicos corporativos para tu negocio. 
