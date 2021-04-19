@@ -44,7 +44,7 @@ sections:
             label: Informame
       - title: La velocidad SI importa
         image: images/PageSpeed Insights - alitoweb.webp
-        image_alt: App user profile preview
+        image_alt: alitoweb velocidad 99
         content: >
           La principal razón para tener un sitio web rápido es mejorar la
           experiencia que das a tus usuarios.
