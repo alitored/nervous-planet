@@ -43,22 +43,22 @@ Diseñamos Sitios Webs en WordPress y todos poseen una interfaz amigable para qu
 
 Podrás alojar contenido en formato de video, fotografía y documentos para descargar.
 
-####   Full Responsive
+#### Full Responsive
 
 Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
-#### SEO amigable
+####   SEO amigable
 
 Consideramos los principales aspectos para que tu sitio web se posicione en Google. 
 
-#### Redes Sociales
+####   ![](https://preview--nervous-planet-b141d.stackbit.dev/images/rsz\_053-speech_bubble.png)Redes Sociales
 
 Integramos los botones de tus Redes Sociales en tu sitio web para una mejor experiencia de navegación.   
 
-#### Marketing y Análisis
+####   Marketing y Análisis
 
 Integramos herramientas como Google Analytics para que puedas medir y gestionar el marketing.
 
-#### Correos Corporativos
+####   Correos Corporativos
 
 Creamos y configuramos correos electrónicos corporativos para tu negocio. 
