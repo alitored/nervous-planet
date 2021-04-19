@@ -5,7 +5,7 @@ excerpt: >-
   configuradas para trabajar entre sí.
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
-thumb_image: images/jamstack.png
+thumb_image: images/jamstack.webp
 thumb_image_alt: People in a conference room
 image: images/FireShot Capture 209 - Páginas web on Behance.png
 image_alt: People in a conference room
