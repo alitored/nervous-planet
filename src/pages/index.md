@@ -47,7 +47,7 @@ sections:
         image_alt: alitoweb velocidad 99
         content: >
           La principal razón para tener un sitio web rápido es mejorar la
-          experiencia que das a tus usuarios. alitoweb en page speed 99!! 
+          experiencia que das a tus usuarios. => alitoweb en page speed 99!!
         actions:
           - label: Informame
             url: /blog/user-journey-mapping/
