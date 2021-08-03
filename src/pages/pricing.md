@@ -70,7 +70,7 @@ sections:
             url: /signup
             style: primary
       - title: E-COMMERCE
-        price: $ 17.900.-
+        price: $ 27.900.-
         details: >
           Hosting 5 GB (por 1 año)
 
