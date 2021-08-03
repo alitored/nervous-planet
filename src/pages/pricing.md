@@ -45,7 +45,7 @@ sections:
             style: secondary
       - title: Página web empresarial
         subtitle: Hasta 6 páginas interiores
-        price: $8.900.-
+        price: $11.900.-
         details: |
           Hosting 5 GB (por 1 año)
 
