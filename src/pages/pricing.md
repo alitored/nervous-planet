@@ -47,13 +47,11 @@ sections:
         subtitle: Hasta 6 páginas interiores
         price: $11.900.-
         details: |
-          Hosting 5 GB (por 1 año)
-
-
+          Hosting 5 GB (por 6 meses)
 
           *   Certificado SSL
 
-          *   Hasta 6 páginas interiores
+          *   Hasta 4 páginas interiores
 
           *   Formulario de contacto
 
@@ -63,7 +61,7 @@ sections:
 
           *   Integración con WhatsApp/Chat
 
-          *   Tutorial y capacitación de autoadministración
+          *   Soporte de autoadministración
         highlight: true
         actions:
           - label: Me interesa
