@@ -43,7 +43,7 @@ sections:
           - label: Me interesa
             url: /signup
             style: secondary
-      - title: Página web empresarial
+      - title: Página web organizacional
         subtitle: Hasta 6 páginas interiores
         price: $11.900.-
         details: |
