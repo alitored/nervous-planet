@@ -23,7 +23,7 @@
             },
             {
                 "label": "Promos Web",
-                "url": "#",
+                "url": "/proms",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
