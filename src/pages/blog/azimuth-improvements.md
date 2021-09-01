@@ -7,7 +7,7 @@ author: src/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2017-03-26'
+date: '08/2021'
 thumb_image: images/1_thumb.jpg
 seo:
   title: Release Notes - Azimuth Improvements and New Integrations
