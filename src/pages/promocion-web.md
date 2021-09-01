@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Páginas Web para psicólogos
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
