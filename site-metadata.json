@@ -23,7 +23,7 @@
             },
             {
                 "label": "Promos Web",
-                "url": "/promos",
+                "url": "/promos/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
