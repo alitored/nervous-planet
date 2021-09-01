@@ -31,7 +31,7 @@
                 "style": "primary",
                 "label": "whatsapp",
                 "icon": "facebook",
-                "has_icon": true
+                "has_icon": false
             }
         ]
     },
