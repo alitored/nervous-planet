@@ -7,7 +7,7 @@ sections:
     image_alt: landing-pages-adorableweb
     title: 'Tu página web adaptable más barata, más segura y más rápida!!'
     content: >
-      Tan solo por $5900 una web con la última y revolucionaria tecnología
+      Tan solo por $7500 una web con la última y revolucionaria tecnología
       Jamstack. Que esperas para hacer tu inversión inteligente?
     actions:
       - label: Consultame
