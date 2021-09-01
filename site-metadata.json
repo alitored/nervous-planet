@@ -7,17 +7,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Promos Web",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Home",
                 "url": "/",
                 "style": "link"
@@ -31,6 +20,17 @@
                 "label": "Precios",
                 "url": "/precios",
                 "style": "link"
+            },
+            {
+                "label": "Promos Web",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Contacto",
