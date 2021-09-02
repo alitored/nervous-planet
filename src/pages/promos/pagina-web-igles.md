@@ -11,9 +11,12 @@ seo:
 template: page
 image: images/webparapsic.png
 ---
-## Lorem ipsum
+### 5 Módulos increíbles para generar interés y nuevas consultas.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*   Botón Wathsapp
+*   Mapa de google
+*   Formulario de contacto
+*   Suscribirse a tu boletín
+*   Videos de Youtube
+*   Tu Publicación profesional
+*   Agenda
