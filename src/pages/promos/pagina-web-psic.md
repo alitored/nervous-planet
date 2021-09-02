@@ -1,6 +1,6 @@
 ---
 title: Páginas Web para psicólogos
-subtitle: lorem-ipsum
+subtitle: Tu Web profesional
 image_alt: lorem-ipsum
 seo:
   title: ''
