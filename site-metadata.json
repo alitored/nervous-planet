@@ -14,7 +14,7 @@
             {
                 "label": "Agencia",
                 "url": "/agencia",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Precios",
