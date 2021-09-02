@@ -1,5 +1,5 @@
 ---
-title: Psicólogos
+title: Iglesias
 subtitle: Tu Web profesional
 image_alt: lorem-ipsum
 seo:
