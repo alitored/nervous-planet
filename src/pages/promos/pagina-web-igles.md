@@ -1,6 +1,6 @@
 ---
 title: Psicólogos
-subtitle: lorem-ipsum
+subtitle: Tu Web profesional
 image_alt: lorem-ipsum
 seo:
   title: ''
