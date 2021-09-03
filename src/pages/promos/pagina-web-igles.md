@@ -9,7 +9,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: page
-image: images/webparapsic.png
 ---
 ### 5 Módulos increíbles para generar interés y nuevas consultas.
 
