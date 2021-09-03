@@ -24,9 +24,9 @@ template: page
 ---
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Páginas</th>
+    <th>Precio</th>
+    <th>Incluye</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
@@ -39,4 +39,3 @@ template: page
     <td>Mexico</td>
   </tr>
 </table>
-
