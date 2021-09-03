@@ -23,7 +23,7 @@ sections:
         content: "**Las páginas web más baratas**\_no tienen por qué ser webs estáticas, feas y poco funcionales.\n\nHemos automatizado parte del proceso para que puedas comprar una página web barata sin sacrificar su calidad.\n\n"
         actions:
           - label: Comprar web
-            url: /pricing
+            url: /precios
             style: secondary
             has_icon: true
             icon: arrow-right
