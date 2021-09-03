@@ -34,6 +34,11 @@ sections:
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Contact
   description: This is the contact page
