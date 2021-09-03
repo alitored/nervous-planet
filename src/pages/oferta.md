@@ -18,6 +18,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/webparapsic-87fe7ba7.png
     type: section_features
 seo:
   title: adorable web
