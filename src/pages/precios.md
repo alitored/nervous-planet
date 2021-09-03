@@ -130,7 +130,7 @@ sections:
           *   Posicionamiento en buscadores
         actions:
           - label: Me interesa
-            url: /signup
+            url: /contacto
             style: secondary
         subtitle: Tienda online
     subtitle: >-
