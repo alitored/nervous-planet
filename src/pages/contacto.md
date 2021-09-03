@@ -41,7 +41,7 @@ sections:
         url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=541157577039"
         style: primary
         has_icon: true
-        icon: arrow-left
+        icon: instagram
         icon_position: left
         new_window: false
         no_follow: false
