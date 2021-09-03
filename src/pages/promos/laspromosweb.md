@@ -1,9 +1,6 @@
 ---
 title: Promos Web para Tu comercio o servicio
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: "Aquí podés encontrar muchas facilidades\_ y opciones de mejora para tu actual o nuevo sitio web."
 seo:
   title: Style Guide
   description: This is the style guide page
