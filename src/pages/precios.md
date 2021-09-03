@@ -41,7 +41,7 @@ sections:
           *   Certificado de sitio seguro SSL
         actions:
           - label: Me interesa
-            url: /signup
+            url: /contacto
             style: secondary
       - title: Página web organizacional
         subtitle: Hasta 6 páginas interiores
