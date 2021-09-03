@@ -24,7 +24,6 @@ template: page
 ---
 |   Páginas  |                         Incluye                         | Precio |
 |:----------:|:-------------------------------------------------------:|:------:|
-| Psicólogos | geo, dominio, hosting, form de contacto, botón wathsapp |  7500  |
+| [Psicólogos](/promos/pagina-web-psic) | geo, dominio, hosting, form de contacto, botón wathsapp |  7500  |
 |  Iglesias  | geo, dominio, hosting, form de contacto, botón wathsapp |  7500  |
 |            |                                                         |        |
-
