@@ -34,7 +34,7 @@ sections:
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve.
-  - title: Hablame por wathsapp
+  - title: 'Comunicate '
     subtitle: '1157577039'
     actions:
       - label: dale clic
