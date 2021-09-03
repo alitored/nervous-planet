@@ -36,7 +36,7 @@ sections:
       breve.
   - section_id: lorem-ipsum
     title: Hablame por wathsapp
-    subtitle: lorem-ipsum
+    subtitle: '1157577039'
     actions: []
     type: section_cta
 seo:
