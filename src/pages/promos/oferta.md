@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 sections:
   - section_id: promos
     title: Promos Web para Tu comercio o servicio
