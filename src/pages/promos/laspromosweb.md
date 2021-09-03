@@ -40,3 +40,12 @@ template: page
   </tr>
 </table>
 
+
+
+|   Páginas  |                         Incluye                         | Precio |
+|:----------:|:-------------------------------------------------------:|:------:|
+| Psicólogos | geo, dominio, hosting, form de contacto, botón wathsapp |  7500  |
+|            |                                                         |        |
+|            |                                                         |        |
+|            |                                                         |        |
+|            |                                                         |        |
