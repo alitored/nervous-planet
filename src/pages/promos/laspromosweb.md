@@ -22,28 +22,6 @@ seo:
       value: This is the style guide page
 template: page
 ---
-\<table>
-    \<caption>Páginas especiales septiembre 2021\</caption>
-  \<thead>
-    \<tr>
-      \<th>Web para Psicólogos \</th>
-      \<th>Web para Iglesias\</th>
-    \</tr>
-  \</thead>
-  \<tbody>
-    \<tr>
-      \<td>[Diseños de calidad](https://alitoweb.com.ar/promos/laspromosweb)\</td>
-      \<td>Body content 2\</td>
-    \</tr>
-  \</tbody>
-  \<tfoot>
-    \<tr>
-      \<td>Footer content 1\</td>
-      \<td>Footer content 2\</td>
-    \</tr>
-  \</tfoot>
-\</table>
-
 
 
 <table>
