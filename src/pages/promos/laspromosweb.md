@@ -25,11 +25,11 @@ template: page
 ##
 
 <table>
-    <caption>Table with thead, tfoot, and tbody</caption>
+    <caption>Especiales septiembre 2021</caption>
   <thead>
     <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
+      <th>Web para psicólogos </th>
+      <th>Web para Iglesias</th>
     </tr>
   </thead>
   <tbody>
