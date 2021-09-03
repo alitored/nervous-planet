@@ -51,7 +51,7 @@ Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
 Consideramos los principales aspectos para que tu sitio web se posicione en Google. 
 
-#### ! Redes Sociales
+#### ![](images/estion-de-redes-sociales.webp) Redes Sociales
 
 Integramos los botones de tus Redes Sociales en tu sitio web para una mejor experiencia de navegación.   
 
@@ -63,12 +63,10 @@ Integramos herramientas como Google Analytics para que puedas medir y gestionar 
 
 Creamos y configuramos correos electrónicos corporativos para tu negocio. 
 
-####  ![](/images/rsz\_016-webpage.png)  Sitios Seguros (SSL)
+#### ![](/images/rsz\_016-webpage.png)  Sitios Seguros (SSL)
 
 Te instalamos la conexión SSL para que tengas protegidos los datos confidenciales, como la información de tarjetas de crédito, que se intercambian durante cada visita.
 
 ######
-
-
 
 .
