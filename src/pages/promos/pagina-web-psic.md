@@ -16,7 +16,7 @@ template: page
 
 ![](https://preview--alitoweb-b141d.stackbit.dev/images/alito-wasap-101864e1.png)
 
-### Botón Wathsapp
+### Botón Whatsapp
 
 ![](https://preview--alitoweb-b141d.stackbit.dev/images/alito-mapa.png)
 
