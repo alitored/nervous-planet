@@ -37,7 +37,7 @@ sections:
   - title: Comunicate ahora directamente
     actions:
       - label: Hablemos x Wathsapp
-        url: wa.me/541157577039
+        url: 'https://api.whatsapp.com/send?phone=5491157577039'
         style: primary
         has_icon: true
         icon: instagram
