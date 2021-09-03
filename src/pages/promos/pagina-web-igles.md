@@ -10,6 +10,10 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+
+
+![](images/web-igle.png)
+
 5 Módulos increíbles para generar interés y nuevas consultas.
 
 |     |         Módulos        |                                                                                                                   Utilidad                                                                                                                  | Valor |
