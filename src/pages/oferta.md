@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Promos Web para Tu comercio o servicio
     subtitle: lorem-ipsum
     background: gray
     features: []
