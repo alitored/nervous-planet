@@ -39,3 +39,4 @@ template: page
     <td>Mexico</td>
   </tr>
 </table>
+
