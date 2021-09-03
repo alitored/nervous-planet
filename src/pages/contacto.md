@@ -43,7 +43,7 @@ sections:
         icon: instagram
         icon_position: left
         new_window: true
-        no_follow: false
+        no_follow: true
         type: action
       - label: '1157577039'
         url: '#'
