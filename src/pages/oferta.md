@@ -17,7 +17,7 @@ sections:
           consultas.&#xA;&#xA;
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Llevátela ahora
             url: '#'
             style: link
             has_icon: false
