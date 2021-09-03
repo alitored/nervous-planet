@@ -5,7 +5,7 @@ image: images/nuestro-diseno-web.jpg
 image_alt: Vas a crecer
 seo:
   title: Características
-  description: This is the about page
+  description: 'características del diseño web de alitoweb '
   extra:
     - name: 'og:type'
       value: website
