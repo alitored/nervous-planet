@@ -2,7 +2,7 @@
     "base_font": "fira-sans",
     "palette": "cyan",
     "header": {
-        "logo_img": "images/logo1.png",
+        "logo_img": "images/logo1-ee4ed49f.png",
         "logo_img_alt": "Logo-adorable-web",
         "has_nav": true,
         "nav_links": [
