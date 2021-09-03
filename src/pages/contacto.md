@@ -39,7 +39,7 @@ sections:
     actions:
       - label: Hablemos x Wathsapp
         url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=541157577039"
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
