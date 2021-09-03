@@ -18,7 +18,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Llevátela ahora
-            url: '#'
+            url: 'https://api.whatsapp.com/send?phone=5491157577039'
             style: link
             has_icon: false
             icon: arrow-left
