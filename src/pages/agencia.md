@@ -51,7 +51,7 @@ Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
 Consideramos los principales aspectos para que tu sitio web se posicione en Google. 
 
-#### ![](images/estion-de-redes-sociales.webp) Redes Sociales
+####  ![](images/estion-de-redes-sociales-09cebd9b.webp)  Redes Sociales
 
 Integramos los botones de tus Redes Sociales en tu sitio web para una mejor experiencia de navegación.   
 
