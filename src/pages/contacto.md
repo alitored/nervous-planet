@@ -35,7 +35,6 @@ sections:
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve. Si no querés esperar 1157577039
   - title: Comunicate ahora directamente
-    subtitle: '1157577039'
     actions:
       - label: Hablemos x Wathsapp
         url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=541157577039"
