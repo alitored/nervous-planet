@@ -46,7 +46,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: '1157577039'
         url: '#'
         style: link
         has_icon: false
