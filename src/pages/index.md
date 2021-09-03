@@ -36,7 +36,7 @@ sections:
           Garantizamos que tu sitio siempre estará  visible y desde cualquier
           dispositivo. Tu marca online – 24 x 7 –
         actions:
-          - url: /blog/
+          - url: /blog/ultima-tecnologia
             style: secondary
             has_icon: true
             icon: arrow-right
