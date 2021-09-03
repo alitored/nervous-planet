@@ -7,7 +7,7 @@ author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/jamstack.webp
 thumb_image_alt: People in a conference room
-image: images/FireShot Capture 209 - Páginas web on Behance.png
+image: images/stackbit-custom-themes-1.webp
 image_alt: People in a conference room
 seo:
   title: The Advantages and Disadvantages of Working from Home
