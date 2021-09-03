@@ -34,8 +34,7 @@ sections:
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve.
-  - section_id: lorem-ipsum
-    title: Hablame por wathsapp
+  - title: Hablame por wathsapp
     subtitle: '1157577039'
     actions:
       - label: lorem-ipsum
