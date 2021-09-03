@@ -1,10 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: No te dejes seducir. No pagues de más. Te contamos la verdad.
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
