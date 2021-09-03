@@ -22,5 +22,5 @@ seo:
       value: This is the style guide page
 template: page
 ---
-
+Hola
 
