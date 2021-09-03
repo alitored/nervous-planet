@@ -24,7 +24,7 @@
             {
                 "label": "Promos Web",
                 "url": "/oferta",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "left",
