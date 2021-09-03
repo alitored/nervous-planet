@@ -9,7 +9,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Características",
