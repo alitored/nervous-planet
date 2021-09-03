@@ -10,7 +10,9 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-> 5 Módulos increíbles para generar interés y nuevas consultas.
+> ### 5 Módulos increíbles para generar interés y nuevas consultas.
+>
+> ![](images/webparapsic-0b44a33b.png)
 
 ![](https://preview--alitoweb-b141d.stackbit.dev/images/alito-wasap-101864e1.png)
 
@@ -39,4 +41,3 @@ template: page
 ![](https://preview--alitoweb-b141d.stackbit.dev/images/alito-agenda.png)
 
 ### Agenda
-
