@@ -35,7 +35,8 @@
             {
                 "label": "Contacto",
                 "url": "/contacto",
-                "style": "secondary"
+                "style": "secondary",
+                "icon": "envelope"
             },
             {
                 "url": "https://api.whatsapp.com/send?phone=5491157577039",
