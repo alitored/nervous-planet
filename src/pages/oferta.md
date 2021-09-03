@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Aquí podés encontrar muchas facilidades  y opciones de mejora para tu
       actual o nuevo sitio web.
-    background: gray
+    background: white
     features: []
     type: section_features
 seo:
