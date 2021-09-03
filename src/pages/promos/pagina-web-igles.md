@@ -12,7 +12,7 @@ template: page
 ---
 
 
-![](images/web-igle.png)
+![](images/web-igle.webp)
 
 5 Módulos increíbles para generar interés y nuevas consultas.
 
