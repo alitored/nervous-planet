@@ -37,7 +37,7 @@ sections:
   - title: Hablame por wathsapp
     subtitle: '1157577039'
     actions:
-      - label: lorem-ipsum
+      - label: dale clic
         url: '#'
         style: link
         has_icon: false
