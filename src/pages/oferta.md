@@ -9,9 +9,12 @@ sections:
     background: gray
     features:
       - title: Psicólogos
-        content: |+
-          *   geo, dominio, hosting, form de contacto, botón wathsapp
+        content: >
+          #### geo, dominio, hosting, form de contacto, botón wathsapp
 
+
+          #### 5 Módulos increíbles para generar interés y nuevas
+          consultas.&#xA;&#xA;
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
