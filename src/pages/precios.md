@@ -65,7 +65,7 @@ sections:
         highlight: true
         actions:
           - label: Me interesa
-            url: /signup
+            url: /contacto
             style: primary
       - title: E-COMMERCE
         price: $ 27.900.-
