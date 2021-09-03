@@ -19,7 +19,7 @@ sections:
         actions:
           - label: Llevátela ahora
             url: 'https://api.whatsapp.com/send?phone=5491157577039'
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: left
