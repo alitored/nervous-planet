@@ -1,7 +1,6 @@
 ---
 title: ¿Qué es Jamstack?
 subtitle: El novedoso paradigma de desarrollo web
-author: src/data/authors/jane-doe.yaml
 excerpt: Mejor interpretación. Mayor seguridad. Escalado más barato y fácil.
 date: '2021-01-03'
 thumb_image: images/jam2.jpg
