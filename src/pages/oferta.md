@@ -10,7 +10,8 @@ sections:
     features:
       - title: Psicólogos
         content: >
-          #### geo, dominio, hosting, form de contacto, botón wathsapp
+          #### Incluye geolocalización, dominio propio, hosting, form de
+          contacto, botón wathsapp
 
 
           #### 5 Módulos increíbles para generar interés y nuevas
