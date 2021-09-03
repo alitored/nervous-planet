@@ -7,7 +7,22 @@ sections:
       Aquí podés encontrar muchas facilidades  y opciones de mejora para tu
       actual o nuevo sitio web.
     background: gray
-    features: []
+    features:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
     type: section_features
 seo:
   title: adorable web
