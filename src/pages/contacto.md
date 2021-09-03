@@ -33,7 +33,7 @@ sections:
     submit_label: Enviar mensaje
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
-      breve. Si no querés esperar 11
+      breve. Si no querés esperar 1157577039
   - title: Comunicate ahora directamente
     subtitle: '1157577039'
     actions:
