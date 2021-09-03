@@ -5,6 +5,12 @@ sections:
     type: section_posts
     background: gray
     title: No te dejes seducir. No pagues de más. Te contamos la verdad.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: adorable web
   description: >-
