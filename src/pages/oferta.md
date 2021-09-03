@@ -32,9 +32,9 @@ sections:
 seo:
   title: adorable web
   description: >-
-    Agencia de creación de páginas web con tecnología jamstack, baratas,
-    seguras, adaptables. Páginas web muy rápidas. Creamos landing pages, cms
-    joomla, wordpress.
+    Creación y diseño web de páginas web, baratas, seguras, adaptables. Páginas
+    web muy rápidas. Creamos landing pages, cms joomla, wordpress. Estamos en
+    Buenos Aires
   extra:
     - name: 'og:type'
       value: website
