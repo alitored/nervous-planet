@@ -7,6 +7,7 @@ sections:
       Aquí podés encontrar muchas facilidades  y opciones de mejora para tu
       actual o nuevo sitio web.
     background: gray
+    
     features:
       - title: Psicólogos
         content: >
