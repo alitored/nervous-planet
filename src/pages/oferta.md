@@ -3,7 +3,9 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     title: Promos Web para Tu comercio o servicio
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Aquí podés encontrar muchas facilidades  y opciones de mejora para tu
+      actual o nuevo sitio web.
     background: gray
     features: []
     type: section_features
