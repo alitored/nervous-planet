@@ -43,7 +43,7 @@ sections:
         has_icon: true
         icon: instagram
         icon_position: left
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     type: section_cta
