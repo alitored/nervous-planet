@@ -11,7 +11,7 @@ sections:
       Jamstack. Que esperas para hacer tu inversión inteligente?
     actions:
       - label: Consultame
-        url: /features
+        url: /promos/laspromosweb
         style: primary
   - section_id: features
     type: section_features
