@@ -30,7 +30,7 @@ sections:
         image: images/webparapsic-87fe7ba7.png
     type: section_features
 seo:
-  title: adorable web
+  title: alito web
   description: >-
     Creación y diseño web de páginas web, baratas, seguras, adaptables. Páginas
     web muy rápidas. Creamos landing pages, cms joomla, wordpress. Estamos en
