@@ -8,7 +8,7 @@ sections:
       actual o nuevo sitio web.
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Psicólogos
         content: >-
           ## Lorem ipsum
 
