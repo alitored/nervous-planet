@@ -9,7 +9,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "Agencia",
