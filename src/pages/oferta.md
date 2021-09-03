@@ -16,7 +16,16 @@ sections:
           #### 5 Módulos increíbles para generar interés y nuevas
           consultas.&#xA;&#xA;
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/webparapsic-87fe7ba7.png
     type: section_features
