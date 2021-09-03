@@ -22,5 +22,11 @@ seo:
       value: This is the style guide page
 template: page
 ---
-Hola
+|   Páginas  |                         Incluye                         | Precio |
+|:----------:|:-------------------------------------------------------:|:------:|
+| Psicólogos | geo, dominio, hosting, form de contacto, botón wathsapp |  7500  |
+|  Iglesias  |                                                         |  7500  |
+|            |                                                         |        |
+|            |                                                         |        |
+|            |                                                         |        |
 
