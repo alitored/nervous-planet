@@ -21,7 +21,7 @@ sections:
             url: 'https://api.whatsapp.com/send?phone=5491157577039'
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: left
             new_window: false
             no_follow: false
