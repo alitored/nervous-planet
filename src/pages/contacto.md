@@ -38,7 +38,7 @@ sections:
     subtitle: '1157577039'
     actions:
       - label: dale clic
-        url: '#'
+        url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=541157577039"
         style: link
         has_icon: false
         icon: arrow-left
