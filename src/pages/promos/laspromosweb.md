@@ -25,16 +25,16 @@ template: page
 ##
 
 <table>
-    <caption>Especiales septiembre 2021</caption>
+    <caption>Páginas especiales septiembre 2021</caption>
   <thead>
     <tr>
-      <th>Web para psicólogos </th>
+      <th>Web para Psicólogos </th>
       <th>Web para Iglesias</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Body content 1</td>
+      <td>Diseños de calidad</td>
       <td>Body content 2</td>
     </tr>
   </tbody>
