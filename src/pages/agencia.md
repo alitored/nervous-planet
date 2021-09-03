@@ -51,7 +51,7 @@ Sitio web adaptado a todos los formatos de pantalla: Pc, smartphones y tablets.
 
 Consideramos los principales aspectos para que tu sitio web se posicione en Google. 
 
-#### ![](https://preview--nervous-planet-b141d.stackbit.dev/images/rsz\_053-speech_bubble.png)  Redes Sociales
+#### ! Redes Sociales
 
 Integramos los botones de tus Redes Sociales en tu sitio web para una mejor experiencia de navegación.   
 
