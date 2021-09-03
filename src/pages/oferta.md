@@ -1,18 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    image: images/webdesign.webp
-    image_alt: landing-pages-adorableweb
-    title: 'Tu página web adaptable más barata, más segura y más rápida!!'
-    content: >
-      #### Tan solo por $7500 una web con la última y revolucionaria tecnología
-      Jamstack. Que esperas para hacer tu inversión inteligente?
-    actions:
-      - label: Consultame
-        url: /promos/laspromosweb
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
