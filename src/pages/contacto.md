@@ -34,7 +34,7 @@ sections:
     subtitle: >-
       Envianos un mensaje con tus preguntas o solicitudes y responderemos en
       breve.
-  - title: 'Comunicate '
+  - title: Comunicate ahora directamente
     subtitle: '1157577039'
     actions:
       - label: dale clic
