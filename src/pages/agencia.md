@@ -4,7 +4,7 @@ subtitle: Características y beneficios que van a potenciar tu negocio
 image: images/nuestro-diseno-web.jpg
 image_alt: Vas a crecer
 seo:
-  title: About Us
+  title: Características
   description: This is the about page
   extra:
     - name: 'og:type'
