@@ -37,7 +37,7 @@ sections:
   - title: Comunicate ahora directamente
     subtitle: '1157577039'
     actions:
-      - label: dale clic
+      - label: Hablemos x W
         url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=541157577039"
         style: primary
         has_icon: false
