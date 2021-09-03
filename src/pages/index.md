@@ -50,7 +50,7 @@ sections:
           experiencia que das a tus usuarios. => alitoweb en page speed 99!!
         actions:
           - label: Informame
-            url: /blog/user-journey-mapping/
+            url: /blog/la-velocidad/
             style: secondary
             has_icon: true
             icon: arrow-right
