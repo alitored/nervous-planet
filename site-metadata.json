@@ -19,7 +19,7 @@
             {
                 "label": "Precios",
                 "url": "/precios",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Promos Web",
