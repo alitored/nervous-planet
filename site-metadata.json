@@ -14,7 +14,7 @@
             {
                 "label": "Características",
                 "url": "/agencia",
-                "style": "secondary"
+                "style": "link"
             },
             {
                 "label": "Precios",
