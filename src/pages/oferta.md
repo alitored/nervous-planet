@@ -13,16 +13,6 @@ sections:
       - label: Consultame
         url: /promos/laspromosweb
         style: primary
-  - section_id: call-to-action
-    type: section_cta
-    title: Decidite por la inversión inteligente
-    subtitle: Elegi a los especialistas en diseño de páginas web ultrarápidas
-    actions:
-      - label: Elegir mi web
-        url: /precios
-        style: primary
-        has_icon: true
-        icon: arrow-right
   - section_id: recent-posts
     type: section_posts
     background: gray
