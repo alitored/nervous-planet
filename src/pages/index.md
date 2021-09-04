@@ -73,7 +73,7 @@ sections:
     background: gray
     title: No te dejes seducir. No pagues de más. Te contamos la verdad.
 seo:
-  title: adorable web
+  title: Alito WEb
   description: >-
     Agencia de creación de páginas web con tecnología jamstack, baratas,
     seguras, adaptables. Páginas web muy rápidas. Creamos landing pages, cms
