@@ -23,7 +23,7 @@
             },
             {
                 "label": "Promociones",
-                "url": "/oferta",
+                "url": "/promociones",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
