@@ -2,7 +2,7 @@
 title: promociones
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Páginas Web
     subtitle: lorem-ipsum
     background: gray
     features: []
