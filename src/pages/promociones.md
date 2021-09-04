@@ -3,7 +3,7 @@ title: promociones
 sections:
   - section_id: lorem-ipsum
     title: Promociones
-    subtitle: lorem-ipsum
+    subtitle: 'Desarrollos '
     background: gray
     features: []
     type: section_features
