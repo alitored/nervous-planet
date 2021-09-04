@@ -2,7 +2,7 @@
 title: Promos Web para Tu comercio o servicio
 subtitle: "Aquí podés encontrar muchas facilidades\_ y opciones de mejora para tu actual o nuevo sitio web."
 seo:
-  title: Style Guide
+  title: Promociones web
   description: This is the style guide page
   extra:
     - name: 'og:type'
