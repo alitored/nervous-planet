@@ -6,7 +6,6 @@ subtitle: >-
 excerpt: >-
   Las razones son simples, Olvidate de campañas costosas para estar presente en
   las búsquedas de Internet.
-author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/web-alta-velocidad-1024x638.png
 thumb_image_alt: Infografía velocidad web
