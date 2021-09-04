@@ -6,7 +6,7 @@ sections:
     subtitle: Desarrollos web profesionales superaccesibles
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Páginas para psicólogos
         content: >-
           ## Lorem ipsum
 
