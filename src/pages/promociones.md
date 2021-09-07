@@ -12,7 +12,7 @@ sections:
         type: feature_item
     type: section_features
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Mejorá tus oportunidades!!
     content: |
       ![](images/nosabes.webp)
     image_alt: lorem-ipsum
