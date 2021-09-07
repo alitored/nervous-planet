@@ -6,7 +6,7 @@ sections:
     subtitle: Desarrollos web profesionales superaccesibles
     background: gray
     features:
-      - title: Páginas para psicólogos
+      - title: Páginas profesionales super económicas
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
