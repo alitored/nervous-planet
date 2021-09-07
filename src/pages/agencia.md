@@ -1,7 +1,6 @@
 ---
 title: Características
 subtitle: Características y beneficios que van a potenciar tu negocio
-image: images/Groupsdcsd35-804x1024.png
 image_alt: Vas a crecer
 seo:
   title: Características
