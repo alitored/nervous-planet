@@ -2,7 +2,7 @@
     "base_font": "fira-sans",
     "palette": "purple",
     "header": {
-        "logo_img": "images/logo1-ee4ed49f.png",
+        "logo_img": "images/logoezer-jamstack.png",
         "logo_img_alt": "Logo-alito-web",
         "has_nav": true,
         "nav_links": [
