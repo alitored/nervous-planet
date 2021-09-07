@@ -29,7 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 template: page
-image: images/03-1024x936-cbbef54d.png
+image: images/hacerdetodo.webp
 ---
 #### ![](/images/rsz\_054-webpage.png)  Diseño personalizado
 
