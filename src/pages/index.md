@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/webdesign.webp
+    image: images/08.png
     image_alt: landing-pages-adorableweb
     title: 'Tu página web adaptable más barata, más segura y más rápida!!'
     content: >
