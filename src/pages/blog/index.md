@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: La verdad de las páginas web
   description: This is the blog page
   extra:
     - name: 'og:type'
