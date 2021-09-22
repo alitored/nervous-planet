@@ -2,7 +2,9 @@
 title: Blog
 seo:
   title: La verdad de las páginas web
-  description: This is the blog page
+  description: >-
+    Aprendé sobre la nueva tecnología web y decidite por nuestros precios
+    geniales 
   extra:
     - name: 'og:type'
       value: website
