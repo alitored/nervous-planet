@@ -4,7 +4,9 @@ subtitle: Características y beneficios que van a potenciar tu negocio
 image_alt: Vas a crecer
 seo:
   title: Características
-  description: 'características del diseño web de alitoweb '
+  description: >-
+    Conocé las características del diseño web de ezerweb y obtené tu sitio web
+    profesional a precios geniales
   extra:
     - name: 'og:type'
       value: website
