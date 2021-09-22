@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: La verdad de las páginas web
       keyName: property
     - name: 'og:description'
       value: This is the blog page
